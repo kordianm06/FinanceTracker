@@ -1,0 +1,14 @@
+C:\Users\Desktop\Desktop\Finance Tracker\FinanceTracker\FinanceTracker\obj\Debug\net8.0\FinanceTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\Desktop\Finance Tracker\FinanceTracker\FinanceTracker\obj\Debug\net8.0\FinanceTracker.AssemblyInfoInputs.cache
+C:\Users\Desktop\Desktop\Finance Tracker\FinanceTracker\FinanceTracker\obj\Debug\net8.0\FinanceTracker.AssemblyInfo.cs
+C:\Users\Desktop\Desktop\Finance Tracker\FinanceTracker\FinanceTracker\obj\Debug\net8.0\FinanceTracker.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Desktop\Finance Tracker\FinanceTracker\FinanceTracker\bin\Debug\net8.0\FinanceTracker.exe
+C:\Users\Desktop\Desktop\Finance Tracker\FinanceTracker\FinanceTracker\bin\Debug\net8.0\FinanceTracker.deps.json
+C:\Users\Desktop\Desktop\Finance Tracker\FinanceTracker\FinanceTracker\bin\Debug\net8.0\FinanceTracker.runtimeconfig.json
+C:\Users\Desktop\Desktop\Finance Tracker\FinanceTracker\FinanceTracker\bin\Debug\net8.0\FinanceTracker.dll
+C:\Users\Desktop\Desktop\Finance Tracker\FinanceTracker\FinanceTracker\bin\Debug\net8.0\FinanceTracker.pdb
+C:\Users\Desktop\Desktop\Finance Tracker\FinanceTracker\FinanceTracker\obj\Debug\net8.0\FinanceTracker.dll
+C:\Users\Desktop\Desktop\Finance Tracker\FinanceTracker\FinanceTracker\obj\Debug\net8.0\refint\FinanceTracker.dll
+C:\Users\Desktop\Desktop\Finance Tracker\FinanceTracker\FinanceTracker\obj\Debug\net8.0\FinanceTracker.pdb
+C:\Users\Desktop\Desktop\Finance Tracker\FinanceTracker\FinanceTracker\obj\Debug\net8.0\FinanceTracker.genruntimeconfig.cache
+C:\Users\Desktop\Desktop\Finance Tracker\FinanceTracker\FinanceTracker\obj\Debug\net8.0\ref\FinanceTracker.dll
